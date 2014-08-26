@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7449ce15-72e3-48dd-893d-a9ab8ee9aa74</dc:identifier>
+        <dc:title>XNA 4.0 Game Development by Example: Beginner's Guide</dc:title>
+        <dc:creator opf:file-as="Jaegers, Kurt" opf:role="aut">Kurt Jaegers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.3) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-12T06:42:16+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Packt Publishing</dc:subject>
+        <dc:subject>9781849690669</dc:subject>
+        <dc:subject>1849690669</dc:subject>
+        <meta content="2011-06-12T06:42:16+00:00" name="calibre:timestamp"/>
+        <meta content="XNA 4.0 Game Development by Example: Beginner's Guide" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="XNA 4.0 Game Development by Example_ Beginner's Guide - Kurt Jaegers.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
